@@ -1,6 +1,6 @@
 # image_bay
 
-A new Flutter project.
+A sample Flutter app to demonstrate retrieving images using [Pixabay API](https://pixabay.com/api/docs/).
 
 ## Getting Started
 
